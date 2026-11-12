@@ -1,6 +1,6 @@
 # ios-frauddefense-audit
 
-[简体中文](README.md)
+[简体中文](README.md) · [Offline reproduction guide](REPRODUCE.md)
 
 An offline firmware investigation of the upgrade from iOS 27.0.1 (24A446) to iOS 27.2.1 (24B156). It examines whether the upgrade adds a mainland China-specific anti-fraud component and whether background tasks can upload SMS or iMessage content.
 

@@ -1,6 +1,6 @@
 # ios-frauddefense-audit
 
-[English](README.en.md)
+[English](README.en.md) · [离线复现指南](REPRODUCE.md)
 
 对 iOS 27.0.1（24A446）到 iOS 27.2.1（24B156）的离线固件调查。最初的问题是，这次升级是否加入了中国大陆专属的反诈组件，以及短信或 iMessage 正文有没有可能随后台任务上传。
 
